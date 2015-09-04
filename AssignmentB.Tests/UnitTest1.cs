@@ -7,7 +7,7 @@ namespace AssignmentB.Tests
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestCalculateMarkupForIrrelevantDiscountedFare()
         {
             System.Collections.Generic.List<Itinerary> disountList = new System.Collections.Generic.List<Itinerary>();
 
